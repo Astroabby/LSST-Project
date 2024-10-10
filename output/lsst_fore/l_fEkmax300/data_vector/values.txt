@@ -1,4 +1,4 @@
-lsst_chi2 = 1.7684729835644464e-07
+lsst_chi2 = 1.2238630615639703e-05
 lsst_log_det = 0.0
 lsst_n = 1800
 lsst_norm = -0.0

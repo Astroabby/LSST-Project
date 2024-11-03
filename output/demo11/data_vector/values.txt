@@ -1,4 +1,0 @@
-cfhtlens_chi2 = 218.16195584405136
-cfhtlens_log_det = 0.0
-cfhtlens_n = 168
-cfhtlens_norm = -0.0

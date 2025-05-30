@@ -4,5 +4,4 @@ This project is conducted under the supervision of Agnès Ferté and Andrés Pla
 
 In this repository, you will find the *Y1* folder, which contains lsst_simulate.ini, lsst_analyze.ini, and lsst_value.ini. The settings in these .ini files were specifically chosen to obtain the LSST Year 1 data vector following the DESC SRD guidelines.
 
-The *Y1_grid_sampler* folder contains similar .ini files, but in this case, a grid sampler approach is implemented.
 

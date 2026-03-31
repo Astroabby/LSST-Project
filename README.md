@@ -24,7 +24,6 @@ Each case contains the fiducial configuration used to generate the simulated LSS
 - `lsst_simulate.ini`: generates the data vector
 - `lsst_analyze.ini`: computes theoretical predictions and likelihood
 - `lssty10_32pt_simulate_values.ini`: cosmological and nuisance parameters
-- `simu.fits`: simulated LSST Y1 data vector
 
 
 ## Numerical parameters studied

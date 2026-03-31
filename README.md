@@ -1,4 +1,4 @@
-#This work was conducted under the supervision of Agnès Ferté and Andrés Plazas.
+#This work was conducted under the supervision of Agnès Ferté and Andrés A. Plazas Malagón.
 
 # LSST Y1 Numerical Resolution Study (CosmoSIS)
 

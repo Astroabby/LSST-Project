@@ -72,14 +72,14 @@ The analysis was performed using:
 - A grid sampler (for parameter estimation)
 
 To switch between samplers, modify `sampler = test` to `sampler = grid` and specify the output settings:
-`[output]`
-`save_dir = output/Case`
-`filename = output/Case/grid_.txt`
-`format = text`
-`lock = F`
+[output]
+save_dir = output/Case
+filename = output/Case/grid_.txt
+format = text
+lock = F
 
 ## Notes
 
 - The covariance matrix is fixed across all runs.
 - Photometric redshift bias and shear calibration parameters are set to zero in this baseline analysis.
-- Only Ωm and σ8 are varied in the parameter inference.
+- Only `\Omega_m` and $\sigma_8$ are varied in the parameter inference.

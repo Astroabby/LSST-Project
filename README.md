@@ -82,4 +82,4 @@ lock = F
 
 - The covariance matrix is fixed across all runs.
 - Photometric redshift bias and shear calibration parameters are set to zero in this baseline analysis.
-- Only `\Omega_m` and $\sigma_8$ are varied in the parameter inference.
+- Only $\Omega_m$ and $\sigma_8$ are varied in the parameter inference.

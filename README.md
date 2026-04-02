@@ -72,11 +72,11 @@ The analysis was performed using:
 - A grid sampler (for parameter estimation)
 
 To switch between samplers, modify `sampler = test` to `sampler = grid` and specify the output settings:
-[output]
+`[output]
 save_dir = output/Case
 filename = output/Case/grid_.txt
 format = text
-lock = F
+lock = F`
 
 ## Notes
 

@@ -9,7 +9,7 @@ The purpose of this work is to quantify how numerical resolution settings affect
 
 ## Repository structure
 
-The repository is organized into two main cases:
+The repository is organized into two main cases (examples folder):
 
 ### Case_1
 - Intrinsic Alignments: NLA model

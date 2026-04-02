@@ -19,7 +19,7 @@ The repository is organized into two main cases:
 - Intrinsic Alignments: TATT model
 - Galaxy Bias: Non-linear bias (FAST-PT)
 
-Each case contains the fiducial configuration used to generate the simulated LSST Y1 data vector:
+Each case contains the configuration files used to generate the simulated LSST Y1 data vector and perform the analysis for both modeling scenarios:
 
 - `lsst_simulate.ini`: generates the data vector
 - `lsst_analyze.ini`: computes theoretical predictions and likelihood
